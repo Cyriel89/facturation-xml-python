@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+  <InvoiceNumber>F2025-003</InvoiceNumber>
+  <IssueDate>10-02-2025</IssueDate>
+  <Customer>
+    <Name>Menuiserie Dubois</Name>
+    <SIREN>555666777</SIREN>
+  </Customer>
+  <Lines>
+    <Line>
+      <Description>Prestation D</Description>
+      <Quantity>3</Quantity>
+      <UnitPrice>80.00</UnitPrice>
+      <VATRate>20.0</VATRate>
+    </Line>
+  </Lines>
+  <TotalAmount>288.00</TotalAmount>
+</Invoice>

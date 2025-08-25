@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+  <InvoiceNumber>F2025-001</InvoiceNumber>
+  <IssueDate>2025-02-05</IssueDate>
+  <Customer>
+    <Name>SARL Les Délices</Name>
+    <SIREN>123456789</SIREN>
+  </Customer>
+  <Lines>
+    <Line>
+      <Description>Fourniture A</Description>
+      <Quantity>2</Quantity>
+      <UnitPrice>120.00</UnitPrice>
+      <VATRate>20.0</VATRate>
+    </Line>
+  </Lines>
+  <TotalAmount>240.00</TotalAmount>
+  <Currency>EUR</Currency>
+</Invoice>

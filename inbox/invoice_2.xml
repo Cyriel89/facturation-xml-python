@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+  <InvoiceNumber>F2025-002</InvoiceNumber>
+  <IssueDate>2025-02-10</IssueDate>
+  <Customer>
+    <Name>Atelier Lumière</Name>
+    <SIREN>987654321</SIREN>
+  </Customer>
+  <Lines>
+    <Line>
+      <Description>Matériel C</Description>
+      <Quantity>5</Quantity>
+      <UnitPrice>45.50</UnitPrice>
+      <VATRate>20.0</VATRate>
+    </Line>
+  </Lines>
+  <TotalAmount>273.00</TotalAmount>
+  <Currency>EUR</Currency>
+</Invoice>
