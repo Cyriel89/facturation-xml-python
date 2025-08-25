@@ -1,0 +1,33 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.so
+
+# --- Environnements virtuels ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- Bases de données locales ---
+*.db
+*.sqlite
+
+# --- Fichiers de logs et rapports ---
+*.log
+*.csv
+*.json
+
+# --- Dossiers générés par le projet ---
+processed/
+invalid/
+report.csv
+invoices.db
+
+# --- Configs locales ---
+*.env
+.DS_Store
+Thumbs.db
